@@ -290,12 +290,12 @@ section .back div
 {
 		width: 400px;
 		height: 400px;
-		scale: 120%;
+		scale: 110%;
 		margin: 10%;
 		margin-top: -150%;
 		margin-bottom: 100%;
 		opacity: 50%;
-		margin-left: 10%;
+		margin-left: -20%;
 
 
 }
